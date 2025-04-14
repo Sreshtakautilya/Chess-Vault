@@ -1,0 +1,86 @@
+#portfolio{
+    font-size: 140px;
+    text-align: center;
+    color:white;
+    background-color: rgb(13, 63, 87);}
+
+#image{
+   border-top-right-radius: 50%;
+   border-bottom-right-radius: 50%;}  
+*{
+    margin-top: 0px;
+    padding-top: 0px;}
+p{
+    font-size: 17px;}
+a{
+    font-size: 200px;
+    color:rgb(245, 248, 249);}
+
+.html{
+    margin-top:50px;
+    margin-left:70px;
+    color:rgb(237, 87, 45);}
+.css{
+    margin-top:50px;
+    margin-left:70px;
+    color:rgb(61, 123, 222);}
+.js{
+    margin-top:50px;
+    margin-left:70px;
+    color:rgb(225, 225, 39);}
+.java{
+    font-size: 110px;
+    background-color: rgb(225, 225, 39);
+    margin-left:0px;
+    color:rgb(13, 63, 87);}
+.chessvault{
+    font-size: 100px;
+    background-color: rgb(232, 232, 95);
+    color:rgb(14, 163, 136);
+    text-align: center;}
+.chessfull{
+    margin-left: 450px;}
+h{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 20px;
+    color:rgb(136, 86, 215);}
+.dinintoc{
+     display: flex;
+     flex-direction: column;
+     flex-wrap: wrap;}
+button{
+    margin:50px;
+    border:5px,solid,rgb(225, 225, 39);}
+.divpr{
+    display: flex;
+    flex-direction: row;
+    margin-left:50px;}
+.divw{
+    border:10px,solid,rgb(225, 225, 39);
+    width:400px;
+    height:240px;
+    margin:50px;
+    margin-left:150px;
+    background-color: bisque;
+    display:flex;
+    flex-direction: row;}
+.divb{
+    border:10px,solid,rgb(225, 225, 39);
+    width:400px;
+    height:240px;
+    margin:50px;
+    background-color: rgb(174, 137, 92);
+    display:flex;
+    flex-direction: row;}
+.props{
+    margin:10px;
+    margin-top: 20px;}
+hl{
+    font-size: 30px;}
+.divwl{
+    margin:10px;}
+.divbl{
+    margin:10px;}
+.paras{
+    font-size: 30px;}
